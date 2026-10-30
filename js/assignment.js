@@ -30,7 +30,7 @@ import { onRaceChange, announce, listen } from './data.js';
 
 let duration = 0;
 
-const TOP_N = 10; // how many drivers to show (the first TOP_N finishers)
+const TOP_N = 10; // xhow many drivers to show (the first TOP_N finishers)
 
 // ============================================================================
 // DATA PROCESSING
